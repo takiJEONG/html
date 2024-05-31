@@ -8,17 +8,11 @@
 .header {
     text-align: center; 
     font-size: 16px;
+    color: aqua;
 }
 
-.content {
-    color: red;
-}
 
 p {
     color: green;
-}
-
-#special {
     text-align: center;
-    color: blue;
 }
