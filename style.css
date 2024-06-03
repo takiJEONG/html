@@ -28,5 +28,6 @@ p {
     border-radius: 15px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 10px;
+    font-size: 18px;
+    font-family: gulim;
 }
