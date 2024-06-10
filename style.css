@@ -75,3 +75,13 @@ p {
     background: yellow;
     float: left;
 }
+
+.blog-profile {
+    width: 50px;
+    float: left;
+    display: block;
+}
+
+.namescript {
+    float: left;
+}
