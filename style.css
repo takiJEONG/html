@@ -62,3 +62,14 @@ p {
     background-color: grey;
     clear: both;
 }
+.blog-content {
+    width: 80%;
+    height: 200px;
+    background: #eee;
+}
+
+.blog-img {
+    width: 20%;
+    height: 200px;
+    background: yellow;
+}
