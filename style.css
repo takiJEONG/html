@@ -100,3 +100,7 @@ p {
  Background-repeat: no-repeat;
  Background-position: center;
 }
+
+.main-title {
+ Color : white;
+ Font-size: 40px;
