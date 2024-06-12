@@ -99,8 +99,10 @@ p {
  Background-size: cover;
  Background-repeat: no-repeat;
  Background-position: center;
+ Padding: 1px;
 }
 
 .main-title {
  Color : white;
  Font-size: 40px;
+ Margin-top: 200px;
