@@ -90,3 +90,11 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+
+.main-background {
+ width: 100%;
+ height: 500px;
+ background-image: url(1.jpeg);
+ Background-size: 30%;
+ Background-repeat: no-repeat;
+}
