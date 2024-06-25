@@ -129,3 +129,9 @@ p {
  box-sizing: border-box;
 }
 
+.input[type=text] {
+padding: 10px;
+font-size: 20px;
+border: 2px solid black;
+border-radius: 5px;
+}
