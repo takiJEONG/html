@@ -14,3 +14,8 @@ td {
     border-top-left-radius: 5px;
 }
 
+.box {
+    display: table;
+    display: table-row;
+    display: table-cell;
+}
